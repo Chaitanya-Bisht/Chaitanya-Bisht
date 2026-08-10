@@ -8,6 +8,12 @@ I use GitHub to document my learning journey, practice consistently, and build p
 
 ---
 
+## 🐍 My GitHub Contributions
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg)
+
+
+---
 ## 🚀 About Me
 
 * 🎓 Computer Science Engineering student
