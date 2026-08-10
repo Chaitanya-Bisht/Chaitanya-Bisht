@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Chaitanya Bisht 👋
 
-<!--
-**Chaitanya-Bisht/Chaitanya-Bisht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Engineering Student | Python | Data Science | AI/ML
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 CSE student at Birla Institute of Applied Science
+- 🐍 Currently strengthening Python, NumPy and Pandas
+- 📊 Practicing Data Analysis and EDA
+- 🤖 Learning toward AI/ML
+- 💻 Building projects and improving my problem-solving skills
+
+## 🛠️ Skills
+
+Python • Java • Pandas • NumPy • Matplotlib • Git • GitHub • SQL
+
+## 📌 Featured Projects
+
+- GitHub Profile Analyzer
+- Netflix Data Analysis
+- [Add future projects here]
+
+## 📚 Currently Learning
+
+- Data Analysis
+- Machine Learning
+- SQL
+- Git & GitHub
+
+## 📈 GitHub Journey
+
+I use GitHub to document my learning, practice consistently,
+and build projects in public.
+
+## 📫 Connect With Me
+
+LinkedIn | GitHub
