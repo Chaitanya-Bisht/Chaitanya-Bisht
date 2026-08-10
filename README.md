@@ -7,13 +7,6 @@ I'm a Computer Science Engineering student focused on building strong programmin
 I use GitHub to document my learning journey, practice consistently, and build projects that help me turn concepts into practical solutions.
 
 ---
-
-## 🐍 My GitHub Contributions
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg)
-
-
----
 ## 🚀 About Me
 
 * 🎓 Computer Science Engineering student
