@@ -33,7 +33,7 @@ I use GitHub to document my learning journey, practice consistently, and build p
 
 `Git` `GitHub` `Jupyter Notebook` `VS Code`
 
-**Machine Learning
+Machine Learning
 
 `Scikit-learn` `XGBoost` `LightGBM` `Statsmodels`
 
