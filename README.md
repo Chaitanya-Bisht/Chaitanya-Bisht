@@ -23,15 +23,19 @@ I use GitHub to document my learning journey, practice consistently, and build p
 
 **Languages**
 
-`Python` `Java` `SQL`
+`Python` `Java` `SQL` 
 
 **Data Science**
 
-`NumPy` `Pandas` `Matplotlib`
+`NumPy` `Pandas` `Matplotlib` `Seaborn` `SciPy`
 
 **Tools & Technologies**
 
 `Git` `GitHub` `Jupyter Notebook` `VS Code`
+
+**Machine Learning
+
+`Scikit-learn` `XGBoost` `LightGBM` `Statsmodels`
 
 ---
 
